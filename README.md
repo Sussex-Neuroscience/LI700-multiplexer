@@ -1,7 +1,8 @@
-# LI7000-multiplexer
- a multiplexing system to automate data collection with an LI700
+# LI-7000-multiplexer
+ a multiplexing system to automate data collection with an LI-7000
 
-
+#### notes:
+there seem to be a python library already available for communication with the device: https://github.com/ottermegazord/Li-7000
 
 ### meeting logs:
 
