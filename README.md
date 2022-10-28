@@ -2,8 +2,9 @@
  a multiplexing system to automate data collection with an LI-7000
 
 
-#### mechanical parts rely on this model:
-https://grabcad.com/library/tower-pro-micro-servo-9g-sg90-1
+#### mechanical parts rely on these models:
+- https://grabcad.com/library/tower-pro-micro-servo-9g-sg90-1
+- https://grabcad.com/library/makerbeam-profile-10x10x350-1
 
 
 #### notes:
