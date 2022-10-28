@@ -1,6 +1,11 @@
 # LI-7000-multiplexer
  a multiplexing system to automate data collection with an LI-7000
 
+
+#### mechanical parts rely on this model:
+https://grabcad.com/library/tower-pro-micro-servo-9g-sg90-1
+
+
 #### notes:
 there seem to be a python library already available for communication with the device: https://github.com/ottermegazord/Li-7000
 
